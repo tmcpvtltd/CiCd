@@ -1,1 +1,7 @@
-<font size="4">This is custom text size 4.</font>
+# Heading Level 1 (largest)
+## Heading Level 2
+### Heading Level 3
+#### Heading Level 4
+##### Heading Level 5
+###### Heading Level 6 (smallest)
+
